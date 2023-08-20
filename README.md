@@ -1,11 +1,7 @@
-#Hi there
+### Hello, I'm Shanmuga Raj N! 
 
-<!---
-shandatawhiz/shandatawhiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 👋 Hi, I’m @shandatawhiz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently working in Wells Fargo
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Linkedin
+- 📢 I'm looking for help with Data Analyst Projects
+- 📫 How to reach me : 🧜Linkedin - @linkedin.com/in/shanmuga-raj-techpro
