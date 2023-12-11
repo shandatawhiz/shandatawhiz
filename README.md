@@ -1,6 +1,6 @@
 ### 🙋‍♂️ Hello, I'm Shanmuga Raj N ! 
 
-🔍 Fraud & Claims Investigator turned Junior Data Analyst | Team Lead | Tech Enthusiast
+🔍 Fraud & Claims Ops Analyst turned Junior Data Analyst | Team Lead | Tech Enthusiast
 
 Having  3.5 years dedicated to honing expertise in Fraud and Claims Investigation, Fraud Prevention, chargeback disputes, and Fraud Patterns at Wells Fargo, I've seamlessly transitioned into the dynamic realm of Data Analytics.
 
