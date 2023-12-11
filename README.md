@@ -15,4 +15,4 @@ Let's connect and explore the synergy of experience and innovation in the world 
 - 📢 I'm looking for help with Data Analytics Projects
 - 📫 How to reach me Email: shanmugarajtechpro@gmail.com
 - 👦 Connect me on Linkedin Profile - www.linkedin.com/in/shanmuga-raj-techpro/
-- 📊 Checkout my recent works here - https://www.novypro.com/profile_projects/shanmugaraj 
+- 📊 Checkout my recent works here -  https://www.novypro.com/profile_projects/shanmuga-raj/
